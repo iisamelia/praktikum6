@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1543662587 source:d:\materi kuliah\algoritma dan pemrograman\praktikum 6\kalkulator\kal.cpp
+	<iostream>
+
+1543662756 source:d:\materi kuliah\algoritma dan pemrograman\praktikum 6\kalkulator\main.cpp
+	<iostream>
+	"kal.h"
+
+1543662587 d:\materi kuliah\algoritma dan pemrograman\praktikum 6\kalkulator\kal.h
+
